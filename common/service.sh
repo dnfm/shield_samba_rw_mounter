@@ -9,6 +9,9 @@ SAMBA_PASSWORD=password
 CIFS_HOST=host/ip
 SHARE_NAME=sharename
 
+mkdir -p /data/media/0/media
+mkdir -p /storage/emulated/0/media
+
 # This script will be executed in late_start service mode
 # More info in the main Magisk thread
 echo -n "Setting SELinux to permissive... "
