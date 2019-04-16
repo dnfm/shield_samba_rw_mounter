@@ -1,0 +1,7 @@
+id=shield_samba_mounter
+name=Shield TV R/W Samba mounter
+version=v1
+versionCode=1
+author=jwheeler
+description=Module to mount a SAMBA share r/w on a Shield TV.
+minMagisk=17000
