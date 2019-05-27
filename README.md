@@ -1,6 +1,6 @@
 # nVidia Shield R/W SAMBA mounter.
 
-Modify common/service.sh and insert your login details and share information at the top of the file.
+Modify common/post-fs-data.sh and insert your login details and share information at the top of the file.
 
 Zip this file back up, and install it in Magisk.
 
